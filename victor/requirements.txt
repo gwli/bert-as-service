@@ -1,2 +1,2 @@
-bert-serving-server
-bert-serving-client
+bert-serving-server==1.10.0
+bert-serving-client==1.10.0
